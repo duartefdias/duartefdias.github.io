@@ -1,128 +1,86 @@
 [
   {
-    "week": "2025-06-22",
-    "visitors": 84,
+    "week": "2025-05-18",
+    "visitors": 0,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 220
-  },
-  {
-    "week": "2025-06-15",
-    "visitors": 48,
-    "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 220
-  },
-  {
-    "week": "2025-06-08",
-    "visitors": 62,
-    "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 220
-  },
-  {
-    "week": "2025-06-01",
-    "visitors": 29,
-    "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 220
+    "monthlyActiveUsers": 0
   },
   {
     "week": "2025-05-25",
-    "visitors": 65,
+    "visitors": 0,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 220
-  },
-  {
-    "week": "2025-05-18",
-    "visitors": 63,
-    "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 220
-  },
-  {
-    "week": "2025-05-11",
-    "visitors": 52,
-    "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 220
-  },
-  {
-    "month": "2025-06-01",
-    "visitors": 213,
-    "projectName": "internet-radio-v2",
-    "isMonthly": true
-  },
-  {
-    "month": "2025-05-01",
-    "visitors": 227,
-    "projectName": "internet-radio-v2",
-    "isMonthly": true
-  },
-  {
-    "month": "2025-04-01",
-    "visitors": 158,
-    "projectName": "internet-radio-v2",
-    "isMonthly": true
-  },
-  {
-    "month": "2025-03-01",
-    "visitors": 10,
-    "projectName": "internet-radio-v2",
-    "isMonthly": true
-  },
-  {
-    "week": "2025-06-22",
-    "visitors": 35,
-    "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 159
-  },
-  {
-    "week": "2025-06-15",
-    "visitors": 46,
-    "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 159
-  },
-  {
-    "week": "2025-06-08",
-    "visitors": 62,
-    "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 159
+    "monthlyActiveUsers": 0
   },
   {
     "week": "2025-06-01",
-    "visitors": 31,
-    "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 159
+    "visitors": 0,
+    "projectName": "internet-radio-v2",
+    "monthlyActiveUsers": 0
   },
   {
-    "week": "2025-05-25",
-    "visitors": 14,
-    "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 159
+    "week": "2025-06-08",
+    "visitors": 0,
+    "projectName": "internet-radio-v2",
+    "monthlyActiveUsers": 0
+  },
+  {
+    "week": "2025-06-15",
+    "visitors": 0,
+    "projectName": "internet-radio-v2",
+    "monthlyActiveUsers": 0
+  },
+  {
+    "week": "2025-06-22",
+    "visitors": 0,
+    "projectName": "internet-radio-v2",
+    "monthlyActiveUsers": 0
+  },
+  {
+    "week": "2025-06-29",
+    "visitors": 0,
+    "projectName": "internet-radio-v2",
+    "monthlyActiveUsers": 0
   },
   {
     "week": "2025-05-18",
-    "visitors": 25,
+    "visitors": 0,
     "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 159
+    "monthlyActiveUsers": 0
   },
   {
-    "week": "2025-05-11",
-    "visitors": 25,
+    "week": "2025-05-25",
+    "visitors": 0,
     "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 159
+    "monthlyActiveUsers": 0
   },
   {
-    "month": "2025-06-01",
-    "visitors": 158,
+    "week": "2025-06-01",
+    "visitors": 0,
     "projectName": "real-estate-pro-tools",
-    "isMonthly": true
+    "monthlyActiveUsers": 0
   },
   {
-    "month": "2025-05-01",
-    "visitors": 127,
+    "week": "2025-06-08",
+    "visitors": 0,
     "projectName": "real-estate-pro-tools",
-    "isMonthly": true
+    "monthlyActiveUsers": 0
   },
   {
-    "month": "2025-04-01",
-    "visitors": 45,
+    "week": "2025-06-15",
+    "visitors": 0,
     "projectName": "real-estate-pro-tools",
-    "isMonthly": true
+    "monthlyActiveUsers": 0
+  },
+  {
+    "week": "2025-06-22",
+    "visitors": 0,
+    "projectName": "real-estate-pro-tools",
+    "monthlyActiveUsers": 0
+  },
+  {
+    "week": "2025-06-29",
+    "visitors": 0,
+    "projectName": "real-estate-pro-tools",
+    "monthlyActiveUsers": 0
   }
 ]
