@@ -1,49 +1,49 @@
 [
   {
+    "week": "2025-09-07",
+    "visitors": 341,
+    "projectName": "internet-radio-v2",
+    "monthlyActiveUsers": 1137
+  },
+  {
     "week": "2025-08-31",
     "visitors": 311,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 1024
+    "monthlyActiveUsers": 1137
   },
   {
     "week": "2025-08-24",
     "visitors": 288,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 1024
+    "monthlyActiveUsers": 1137
   },
   {
     "week": "2025-08-17",
     "visitors": 264,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 1024
+    "monthlyActiveUsers": 1137
   },
   {
     "week": "2025-08-10",
     "visitors": 197,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 1024
+    "monthlyActiveUsers": 1137
   },
   {
     "week": "2025-08-03",
     "visitors": 201,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 1024
+    "monthlyActiveUsers": 1137
   },
   {
     "week": "2025-07-27",
-    "visitors": 181,
+    "visitors": 180,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 1024
-  },
-  {
-    "week": "2025-07-20",
-    "visitors": 198,
-    "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 1024
+    "monthlyActiveUsers": 1137
   },
   {
     "month": "2025-09-01",
-    "visitors": 281,
+    "visitors": 586,
     "projectName": "internet-radio-v2",
     "isMonthly": true
   },
@@ -61,55 +61,55 @@
   },
   {
     "month": "2025-06-01",
-    "visitors": 195,
+    "visitors": 139,
     "projectName": "internet-radio-v2",
     "isMonthly": true
+  },
+  {
+    "week": "2025-09-07",
+    "visitors": 19,
+    "projectName": "real-estate-pro-tools",
+    "monthlyActiveUsers": 65
   },
   {
     "week": "2025-08-31",
     "visitors": 15,
     "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 77
+    "monthlyActiveUsers": 65
   },
   {
     "week": "2025-08-24",
     "visitors": 5,
     "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 77
+    "monthlyActiveUsers": 65
   },
   {
     "week": "2025-08-17",
     "visitors": 21,
     "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 77
+    "monthlyActiveUsers": 65
   },
   {
     "week": "2025-08-10",
     "visitors": 29,
     "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 77
+    "monthlyActiveUsers": 65
   },
   {
     "week": "2025-08-03",
     "visitors": 44,
     "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 77
+    "monthlyActiveUsers": 65
   },
   {
     "week": "2025-07-27",
     "visitors": 32,
     "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 77
-  },
-  {
-    "week": "2025-07-20",
-    "visitors": 33,
-    "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 77
+    "monthlyActiveUsers": 65
   },
   {
     "month": "2025-09-01",
-    "visitors": 15,
+    "visitors": 34,
     "projectName": "real-estate-pro-tools",
     "isMonthly": true
   },
@@ -127,7 +127,7 @@
   },
   {
     "month": "2025-06-01",
-    "visitors": 143,
+    "visitors": 84,
     "projectName": "real-estate-pro-tools",
     "isMonthly": true
   }
