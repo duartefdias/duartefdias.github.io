@@ -1,49 +1,49 @@
 [
   {
+    "week": "2026-02-08",
+    "visitors": 1104,
+    "projectName": "internet-radio-v2",
+    "monthlyActiveUsers": 4357
+  },
+  {
     "week": "2026-02-01",
     "visitors": 1108,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 4195
+    "monthlyActiveUsers": 4357
   },
   {
     "week": "2026-01-25",
     "visitors": 1019,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 4195
+    "monthlyActiveUsers": 4357
   },
   {
     "week": "2026-01-18",
     "visitors": 1034,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 4195
+    "monthlyActiveUsers": 4357
   },
   {
     "week": "2026-01-11",
     "visitors": 1038,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 4195
+    "monthlyActiveUsers": 4357
   },
   {
     "week": "2026-01-04",
     "visitors": 964,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 4195
+    "monthlyActiveUsers": 4357
   },
   {
     "week": "2025-12-28",
-    "visitors": 759,
+    "visitors": 757,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 4195
-  },
-  {
-    "week": "2025-12-21",
-    "visitors": 680,
-    "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 4195
+    "monthlyActiveUsers": 4357
   },
   {
     "month": "2026-02-01",
-    "visitors": 1113,
+    "visitors": 2158,
     "projectName": "internet-radio-v2",
     "isMonthly": true
   },
@@ -61,7 +61,7 @@
   },
   {
     "month": "2025-11-01",
-    "visitors": 2297,
+    "visitors": 1616,
     "projectName": "internet-radio-v2",
     "isMonthly": true
   },
@@ -69,37 +69,31 @@
     "week": "2026-02-01",
     "visitors": 8,
     "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 48
+    "monthlyActiveUsers": 38
   },
   {
     "week": "2026-01-25",
     "visitors": 22,
     "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 48
+    "monthlyActiveUsers": 38
   },
   {
     "week": "2026-01-18",
     "visitors": 8,
     "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 48
+    "monthlyActiveUsers": 38
   },
   {
     "week": "2026-01-11",
     "visitors": 8,
     "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 48
+    "monthlyActiveUsers": 38
   },
   {
     "week": "2026-01-04",
     "visitors": 5,
     "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 48
-  },
-  {
-    "week": "2025-12-21",
-    "visitors": 29,
-    "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 48
+    "monthlyActiveUsers": 38
   },
   {
     "month": "2026-02-01",
@@ -121,7 +115,7 @@
   },
   {
     "month": "2025-11-01",
-    "visitors": 19,
+    "visitors": 15,
     "projectName": "real-estate-pro-tools",
     "isMonthly": true
   }
