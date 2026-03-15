@@ -1,11 +1,5 @@
 [
   {
-    "week": "2026-01-18",
-    "visitors": 0,
-    "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 0
-  },
-  {
     "week": "2026-01-25",
     "visitors": 0,
     "projectName": "internet-radio-v2",
@@ -42,6 +36,12 @@
     "monthlyActiveUsers": 0
   },
   {
+    "week": "2026-03-08",
+    "visitors": 0,
+    "projectName": "internet-radio-v2",
+    "monthlyActiveUsers": 0
+  },
+  {
     "week": "2026-02-01",
     "visitors": 8,
     "projectName": "real-estate-pro-tools",
@@ -50,12 +50,6 @@
   {
     "week": "2026-01-25",
     "visitors": 22,
-    "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 0
-  },
-  {
-    "week": "2026-01-18",
-    "visitors": 8,
     "projectName": "real-estate-pro-tools",
     "monthlyActiveUsers": 0
   },
@@ -73,7 +67,7 @@
   },
   {
     "month": "2025-12-01",
-    "visitors": 37,
+    "visitors": 29,
     "projectName": "real-estate-pro-tools",
     "isMonthly": true
   }
