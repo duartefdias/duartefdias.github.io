@@ -1,49 +1,49 @@
 [
   {
+    "week": "2026-03-22",
+    "visitors": 979,
+    "projectName": "internet-radio-v2",
+    "monthlyActiveUsers": 4144
+  },
+  {
     "week": "2026-03-15",
     "visitors": 1000,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 4208
+    "monthlyActiveUsers": 4144
   },
   {
     "week": "2026-03-08",
     "visitors": 1026,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 4208
+    "monthlyActiveUsers": 4144
   },
   {
     "week": "2026-03-01",
     "visitors": 1094,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 4208
+    "monthlyActiveUsers": 4144
   },
   {
     "week": "2026-02-22",
     "visitors": 1070,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 4208
+    "monthlyActiveUsers": 4144
   },
   {
     "week": "2026-02-15",
     "visitors": 1003,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 4208
+    "monthlyActiveUsers": 4144
   },
   {
     "week": "2026-02-08",
-    "visitors": 1104,
+    "visitors": 1098,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 4208
-  },
-  {
-    "week": "2026-02-01",
-    "visitors": 1104,
-    "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 4208
+    "monthlyActiveUsers": 4144
   },
   {
     "month": "2026-03-01",
-    "visitors": 2981,
+    "visitors": 3892,
     "projectName": "internet-radio-v2",
     "isMonthly": true
   },
@@ -61,15 +61,9 @@
   },
   {
     "month": "2025-12-01",
-    "visitors": 1045,
+    "visitors": 418,
     "projectName": "internet-radio-v2",
     "isMonthly": true
-  },
-  {
-    "week": "2026-02-01",
-    "visitors": 8,
-    "projectName": "real-estate-pro-tools",
-    "monthlyActiveUsers": 0
   },
   {
     "month": "2026-02-01",
@@ -80,12 +74,6 @@
   {
     "month": "2026-01-01",
     "visitors": 43,
-    "projectName": "real-estate-pro-tools",
-    "isMonthly": true
-  },
-  {
-    "month": "2025-12-01",
-    "visitors": 29,
     "projectName": "real-estate-pro-tools",
     "isMonthly": true
   }
