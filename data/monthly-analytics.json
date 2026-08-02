@@ -1,49 +1,55 @@
 [
   {
+    "week": "2026-07-26",
+    "visitors": 864,
+    "projectName": "internet-radio-v2",
+    "monthlyActiveUsers": 3619
+  },
+  {
     "week": "2026-07-19",
     "visitors": 950,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 3621
+    "monthlyActiveUsers": 3619
   },
   {
     "week": "2026-07-12",
     "visitors": 903,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 3621
+    "monthlyActiveUsers": 3619
   },
   {
     "week": "2026-07-05",
     "visitors": 870,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 3621
+    "monthlyActiveUsers": 3619
   },
   {
     "week": "2026-06-28",
     "visitors": 835,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 3621
+    "monthlyActiveUsers": 3619
   },
   {
     "week": "2026-06-21",
     "visitors": 861,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 3621
+    "monthlyActiveUsers": 3619
   },
   {
     "week": "2026-06-14",
-    "visitors": 958,
+    "visitors": 953,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 3621
+    "monthlyActiveUsers": 3619
   },
   {
-    "week": "2026-06-07",
-    "visitors": 928,
+    "month": "2026-08-01",
+    "visitors": 114,
     "projectName": "internet-radio-v2",
-    "monthlyActiveUsers": 3621
+    "isMonthly": true
   },
   {
     "month": "2026-07-01",
-    "visitors": 3096,
+    "visitors": 3789,
     "projectName": "internet-radio-v2",
     "isMonthly": true
   },
@@ -55,13 +61,7 @@
   },
   {
     "month": "2026-05-01",
-    "visitors": 3786,
-    "projectName": "internet-radio-v2",
-    "isMonthly": true
-  },
-  {
-    "month": "2026-04-01",
-    "visitors": 555,
+    "visitors": 3534,
     "projectName": "internet-radio-v2",
     "isMonthly": true
   }
